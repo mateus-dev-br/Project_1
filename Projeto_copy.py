@@ -12,7 +12,7 @@ perguntas = [
     {
         'Pergunta': 'Quanto é 10/2?',
         'Opções': ['4', '5', '2', '1'],
-        'Resposta': '5',   
+        'Resposta': '5',  
     },
 ]
 
